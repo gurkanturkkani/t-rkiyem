@@ -7,7 +7,7 @@ public class EinClass {
 		System.out.println("Zweite commit from local repository");
 
 		
-		System.out.println("commit yapmak istiyorum ");
+		System.out.println("ikinci kez conflict yapiyoruz ");
 
 		System.out.println(" Eins commit from remote repository");
 		
